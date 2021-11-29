@@ -9,5 +9,6 @@
   <modules>
     <module>it1</module>
     <module>it1_server</module>
+    <module>it2_server</module>
   </modules>
 </project>
