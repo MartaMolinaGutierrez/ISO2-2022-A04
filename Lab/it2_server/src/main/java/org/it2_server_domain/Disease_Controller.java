@@ -3,7 +3,7 @@ package org.it2_server_domain;
 /************************
  * 
  * @author Elena & Luis Javier
- * @version 0.2.0
+ * @version 0.3.0
  *
  */
 public class Disease_Controller {
@@ -21,5 +21,12 @@ public class Disease_Controller {
 		throw new UnsupportedOperationException();
 	}
 
-	
+	/**
+	 * 
+	 * @param disease
+	 */
+	public int updateDisease(Disease disease) {
+		// TODO - implement Disease_Controller.updateDisease
+		throw new UnsupportedOperationException();
+	}
 }
