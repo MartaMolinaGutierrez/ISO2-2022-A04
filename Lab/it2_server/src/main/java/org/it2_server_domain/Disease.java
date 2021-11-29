@@ -1,6 +1,7 @@
 package org.it2_server_domain;
 
 
+import java.util.Arrays;
 import java.util.Date;
 
 /************************
@@ -21,6 +22,36 @@ public class Disease {
 		this.seasonality = seasonality;
 		this.medicines = medicines;
 	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String[] getSymptoms() {
+		return symptoms;
+	}
+	public void setSymptoms(String[] symptoms) {
+		this.symptoms = symptoms;
+	}
+	public Date[] getSeasonality() {
+		return seasonality;
+	}
+	public void setSeasonality(Date[] seasonality) {
+		this.seasonality = seasonality;
+	}
+	public String[] getMedicines() {
+		return medicines;
+	}
+	public void setMedicines(String[] medicines) {
+		this.medicines = medicines;
+	}
+	@Override
+	public String toString() {
+		return "Disease [name=" + name + ", symptoms=" + Arrays.toString(symptoms) + ", seasonality="
+				+ Arrays.toString(seasonality) + ", medicines=" + Arrays.toString(medicines) + "]";
+	}
+	
 	
 
 }
