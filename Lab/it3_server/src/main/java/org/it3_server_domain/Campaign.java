@@ -4,6 +4,12 @@ import java.util.Arrays;
 import java.util.Date;
 import org.it2_server_domain.Disease;
 
+/*******
+ * 
+ * @author Elena & Luis Javier
+ * @version 0.1.0
+ *
+ */
 public class Campaign {
 	private int ID;
 	private Double cost;
