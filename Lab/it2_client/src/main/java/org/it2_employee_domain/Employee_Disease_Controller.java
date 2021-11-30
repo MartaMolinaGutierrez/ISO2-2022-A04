@@ -3,7 +3,7 @@ package org.it2_employee_domain;
 /*******
  * 
  * @author Elena & Luis Javier
- * @version 0.2.0
+ * @version 0.3.0
  *
  */
 public class Employee_Disease_Controller {
@@ -21,5 +21,12 @@ public class Employee_Disease_Controller {
 		// TODO - implement Employee_Disease_Controller.insertDisease
 		throw new UnsupportedOperationException();
 	}
-
+	/**
+	 * 
+	 * @param disease
+	 */
+	public int updateDisease(Disease_Emp disease) {
+		// TODO - implement Employee_Disease_Controller.updateDisease
+		throw new UnsupportedOperationException();
+	}
 }
