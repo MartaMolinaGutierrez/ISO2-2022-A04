@@ -1,10 +1,9 @@
 package org.it3_employee_domain;
 
-import org.it3_server_domain.Campaign;
 /*********
  * 
  * @author Elena & Luis Javier
- * @version 0.2.0
+ * @version 0.3.0
  *
  */
 public class Employee_Disease_Controller {
@@ -19,9 +18,17 @@ public class Employee_Disease_Controller {
 	 * 
 	 * @param campaign
 	 */
-	public int insertCampaign(Campaign campaign) {
+	public int insertCampaign(Campaign_Emp campaign) {
 		// TODO - implement Employee_Disease_Controller.insertCampaign
 		throw new UnsupportedOperationException();
 	}
-
+	
+	/**
+	 * 
+	 * @param campaign
+	 */
+	public int updateCampaign(Campaign_Emp campaign) {
+		// TODO - implement Employee_Disease_Controller.updateCampaign
+		throw new UnsupportedOperationException();
+	}
 }
