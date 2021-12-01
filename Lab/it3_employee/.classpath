@@ -24,5 +24,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="/it2_server"/>
+	<classpathentry kind="src" path="/it3_server"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
