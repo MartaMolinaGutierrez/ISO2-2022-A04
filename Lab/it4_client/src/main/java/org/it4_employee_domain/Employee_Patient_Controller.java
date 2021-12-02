@@ -1,7 +1,7 @@
 /*******
  * 
  * @author Marta and Ismael
- * @version 0.2.0
+ * @version 0.3.0
  *
  */
 package org.it4_employee_domain;
@@ -33,6 +33,15 @@ public class Employee_Patient_Controller {
 	}
 	public void getPatientList() {
 		// TODO - implement Employee_Patient_Controller.getPatientList
+		throw new UnsupportedOperationException();
+	}
+	
+	/**
+	 * 
+	 * @param patient
+	 */
+	public int insertPatient(Patient_Emp patient) {
+		// TODO - implement Employee_Patient_Controller.insertPatient
 		throw new UnsupportedOperationException();
 	}
 
