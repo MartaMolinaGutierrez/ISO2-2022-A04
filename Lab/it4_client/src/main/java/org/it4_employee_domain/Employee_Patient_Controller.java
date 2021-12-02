@@ -1,7 +1,7 @@
 /*******
  * 
  * @author Marta and Ismael
- * @version 0.1.0
+ * @version 0.2.0
  *
  */
 package org.it4_employee_domain;
@@ -31,7 +31,10 @@ public class Employee_Patient_Controller {
 		super();
 		this.patient_list = patient_list;
 	}
+	public void getPatientList() {
+		// TODO - implement Employee_Patient_Controller.getPatientList
+		throw new UnsupportedOperationException();
+	}
 
-	
 
 }
