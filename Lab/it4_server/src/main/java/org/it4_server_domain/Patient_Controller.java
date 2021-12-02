@@ -1,7 +1,7 @@
 /*******
  * 
  * @author Marta & Ismael
- * @version 0.2.0
+ * @version 0.3.0
  *
  */
 
@@ -17,8 +17,13 @@ public class Patient_Controller {
 	public Patient[] getPersistentPatients() {
 		// TODO - implement Patient_Controller.getPersistentPatients
 		throw new UnsupportedOperationException();
-
-
-
-}
+	}
+	/**
+	 * 
+	 * @param patient
+	 */
+	public int addPatient(Patient patient) {
+		// TODO - implement Patient_Controller.addPatient
+		throw new UnsupportedOperationException();
+	}
 }
