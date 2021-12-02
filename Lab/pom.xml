@@ -12,5 +12,6 @@
     <module>it2_server</module>
     <module>it2_client</module>
     <module>it4_server</module>
+    <module>it4_client</module>
   </modules>
 </project>
