@@ -7,7 +7,9 @@ package org.it1_server_domain;
  *
  */
 public class Person_Controller {
-
+	
+	// Here is the server implementation
+	
 	/**
 	 * 
 	 * @param Person
