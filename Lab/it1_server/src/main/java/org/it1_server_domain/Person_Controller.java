@@ -1,5 +1,11 @@
-package org.server_domain;
+package org.it1_server_domain;
 
+/****
+ * 
+ * @author Elena & Luis Javier
+ * @version 0.1.0
+ *
+ */
 public class Person_Controller {
 
 	/**
