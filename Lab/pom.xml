@@ -16,5 +16,6 @@
     <module>it4_server</module>
     <module>it4_client</module>
     <module>it5_server</module>
+    <module>it5_client</module>
   </modules>
 </project>
