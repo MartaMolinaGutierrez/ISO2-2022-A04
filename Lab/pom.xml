@@ -15,5 +15,6 @@
     <module>it3_employee</module>
     <module>it4_server</module>
     <module>it4_client</module>
+    <module>it5_server</module>
   </modules>
 </project>
