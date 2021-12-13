@@ -13,6 +13,7 @@ public class ContactController {
 
 	/**
 	 * 
+	 * 
 	 * @param patient
 	 */
 	public int addContact(Patient patient) {
