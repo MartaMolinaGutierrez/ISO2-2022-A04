@@ -7,11 +7,10 @@
     <version>0.4.0</version>
   </parent>
 
-  <groupId>ISO2.TeamA04</groupId>
-  <artifactId>it2_client</artifactId>
+  <artifactId>it3_employee</artifactId>
   <version>0.0.0</version>
 
-  <name>it2_client</name>
+  <name>it3_employee</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -28,6 +27,11 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+	<artifactId>it2_server</artifactId>
+		<version>0.0.0</version>
+		<groupId>ISO2.TeamA04</groupId>
+	</dependency>
   </dependencies>
 
   <build>
