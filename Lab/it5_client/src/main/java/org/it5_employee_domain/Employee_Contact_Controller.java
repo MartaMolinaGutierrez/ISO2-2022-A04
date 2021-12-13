@@ -11,4 +11,13 @@ import org.it4_server_domain.Patient;
 
 public class Employee_Contact_Controller {
 	private Patient patient;
+
+	/**
+	 * 
+	 * @param patient
+	 */
+	public int addContact(Patient patient) {
+		// TODO - implement Employeee_Contact_Controller.addContact
+		throw new UnsupportedOperationException();
+	}
 }
