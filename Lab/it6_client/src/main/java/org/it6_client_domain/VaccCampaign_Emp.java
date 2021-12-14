@@ -1,4 +1,4 @@
-package it6_client_domain;
+package org.it6_client_domain;
 /*******
  * 
  * @author Marina & Raul

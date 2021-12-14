@@ -1,10 +1,10 @@
-package it6_client_domain;
+package org.it6_employee_ui;
 /*******
  * 
  * @author Marina & Raul
  * @version 0.1.0
  *
  */
-public class Vaccine_Emp {
+public class Employee_UI {
 
 }
