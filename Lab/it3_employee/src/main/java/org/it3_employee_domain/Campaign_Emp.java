@@ -3,7 +3,7 @@ package org.it3_employee_domain;
 import java.util.Arrays;
 import java.util.Date;
 
-import org.it2_server_domain.Disease;
+import org.it2_employee_domain.Disease_Emp;
 
 /*******
  * 
@@ -16,9 +16,9 @@ public class Campaign_Emp {
 	private Double cost;
 	private Date[] timing;
 	private String efectiveness;
-	private Disease disease;
+	private Disease_Emp disease;
 	private int doses;
-	public Campaign_Emp(int iD, Double cost, Date[] timing, String efectiveness, Disease disease, int doses) {
+	public Campaign_Emp(int iD, Double cost, Date[] timing, String efectiveness, Disease_Emp disease, int doses) {
 		ID = iD;
 		this.cost = cost;
 		this.timing = timing;
@@ -50,10 +50,10 @@ public class Campaign_Emp {
 	public void setEfectiveness(String efectiveness) {
 		this.efectiveness = efectiveness;
 	}
-	public Disease getDisease() {
+	public Disease_Emp getDisease() {
 		return disease;
 	}
-	public void setDisease(Disease disease) {
+	public void setDisease(Disease_Emp disease) {
 		this.disease = disease;
 	}
 	public int getDoses() {
