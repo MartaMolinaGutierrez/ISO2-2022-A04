@@ -33,13 +33,13 @@
 		<version>0.0.0</version>
 		<groupId>ISO2.TeamA04</groupId>
     </dependency>
-    <dependency>
-	<artifactId>it2_server</artifactId>
+	    <dependency>
+	<artifactId>it4_server</artifactId>
 		<version>0.0.0</version>
 		<groupId>ISO2.TeamA04</groupId>
 	</dependency>
 	    <dependency>
-	<artifactId>it4_server</artifactId>
+	<artifactId>it2_client</artifactId>
 		<version>0.0.0</version>
 		<groupId>ISO2.TeamA04</groupId>
 	</dependency>
