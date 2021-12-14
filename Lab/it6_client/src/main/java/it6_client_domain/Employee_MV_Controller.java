@@ -4,7 +4,7 @@ import org.it4_employee_domain.Patient_Emp;
 /*******
  * 
  * @author Marina & Raul
- * @version 0.3.0
+ * @version 0.4.0
  *
  */
 public class Employee_MV_Controller {
@@ -18,5 +18,8 @@ public class Employee_MV_Controller {
 		// TODO - implement Employee_MV_Controller.obtainVaccForecast
 		throw new UnsupportedOperationException();
 	}
-
+	public Patient_Emp[] selectPatients() {
+		// TODO - implement Employee_MV_Controller.selectPatients
+		throw new UnsupportedOperationException();
+	}
 }
