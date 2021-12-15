@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ISO2.TeamA04</groupId>
   <artifactId>Lab</artifactId>
-  <version>0.6.0</version>
+  <version>0.7.0</version>
   <packaging>pom</packaging>
   <name>Lab</name>
   <modules>
@@ -19,5 +19,7 @@
     <module>it6_server</module>
     <module>it5_server</module>
     <module>it5_client</module>
+    <module>it7_server</module>
+    <module>it7_client</module>
   </modules>
 </project>
