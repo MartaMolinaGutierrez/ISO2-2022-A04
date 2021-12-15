@@ -7,10 +7,10 @@
     <version>0.7.0</version>
   </parent>
 
-  <artifactId>it1_server</artifactId>
-  <version>0.0.0</version>
+  <artifactId>it7_server</artifactId>
+  <version>0.6.0</version>
 
-  <name>it1_server</name>
+  <name>it7_server</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
