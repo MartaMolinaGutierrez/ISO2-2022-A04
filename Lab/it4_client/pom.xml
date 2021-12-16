@@ -4,10 +4,9 @@
   <parent>
     <artifactId>Lab</artifactId>
     <groupId>ISO2.TeamA04</groupId>
-    <version>0.7.0</version>
+    <version>1.0.1</version>
   </parent>
 
-  <groupId>ISO2.TeamA04</groupId>
   <artifactId>it4_client</artifactId>
   <version>0.0.0</version>
 
@@ -26,7 +25,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <scope>test</scope>
+      <scope>tSest</scope>
     </dependency>
   </dependencies>
 

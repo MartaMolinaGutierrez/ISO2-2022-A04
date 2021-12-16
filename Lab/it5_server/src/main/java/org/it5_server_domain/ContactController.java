@@ -1,6 +1,6 @@
 package org.it5_server_domain;
 
-import org.it4_employee_domain.Patient_Emp;
+import org.it4_server_domain.Patient;
 
 /*******
  * 
@@ -16,7 +16,7 @@ public class ContactController {
 	 * 
 	 * @param patient
 	 */
-	public int addContact(Patient_Emp patient) {
+	public int addContact(Patient patient) {
 		// TODO - implement ContactController.addContact
 		throw new UnsupportedOperationException();
 	}
@@ -25,7 +25,7 @@ public class ContactController {
 	 * 
 	 * @param patient
 	 */
-	public int removeContact(Patient_Emp patient) {
+	public int removeContact(Patient patient) {
 		// TODO - implement ContactController.removeContact
 		throw new UnsupportedOperationException();
 	}
