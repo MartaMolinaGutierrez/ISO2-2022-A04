@@ -4,7 +4,7 @@
   <parent>
     <artifactId>Lab</artifactId>
     <groupId>ISO2.TeamA04</groupId>
-    <version>0.7.0</version>
+    <version>1.0.1</version>
   </parent>
 
   <artifactId>it5_server</artifactId>
@@ -28,7 +28,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-	<artifactId>it4_client</artifactId>
+	<artifactId>it4_server</artifactId>
 		<version>0.0.0</version>
 		<groupId>ISO2.TeamA04</groupId>
 	</dependency>
