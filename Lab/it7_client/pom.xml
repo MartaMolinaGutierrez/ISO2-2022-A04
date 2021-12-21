@@ -27,6 +27,26 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+        <dependency>
+  	 <artifactId>it2_client</artifactId>
+		<version>0.0.0</version>
+		<groupId>ISO2.TeamA04</groupId>
+    </dependency>
+        <dependency>
+  	 <artifactId>it3_employee</artifactId>
+		<version>0.0.0</version>
+		<groupId>ISO2.TeamA04</groupId>
+    </dependency>
+        <dependency>
+  	 <artifactId>it4_client</artifactId>
+		<version>0.0.0</version>
+		<groupId>ISO2.TeamA04</groupId>
+    </dependency>
+        <dependency>
+  	 <artifactId>it6_client</artifactId>
+		<version>0.5.0</version>
+		<groupId>ISO2.TeamA04</groupId>
+    </dependency>
   </dependencies>
 
   <build>
