@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ISO2.TeamA04</groupId>
   <artifactId>Lab</artifactId>
-  <version>1.0.1-alpha</version>
+  <version>1.0.2-beta</version>
   <packaging>pom</packaging>
   <name>Lab</name>
   <modules>
