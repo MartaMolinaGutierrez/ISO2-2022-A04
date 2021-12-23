@@ -4,7 +4,7 @@
   <parent>
     <artifactId>Lab</artifactId>
     <groupId>ISO2.TeamA04</groupId>
-    <version>1.0.2-beta</version>
+    <version>1.0.0</version>
   </parent>
 
   <artifactId>it7_server</artifactId>
